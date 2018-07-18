@@ -3,17 +3,7 @@ layout: cv
 title: Dominique Lockett's CV
 ---
 Dominique Lockett
-
-
-________________________________________________
-    1 MyAddress  email@example.com\
-MyTown 1000  @twitter_handle\
-MyCountry      1800 my-phone-nr
--------------------     ----------------------------
-
-
-Washington University in St. Louis | Campus Box 1063 | One Brookings Drive| St. Louis, MO, 63130
-| dlockett@wustl.edu | 618-954-6277
+dlockett@wustl.edu | 618-954-6277
 
 ## Currently
 
