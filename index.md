@@ -23,7 +23,7 @@ __PhD., Political Science, Washington University in St. Louis__
 __M.A., Political Science, St. Louis University__
 -Magna Cum Laude, Pi Sigma Alpha
 
-'2013-2016'
+`2013-2016`
 __B.A., Political Science, St. Louis University__
 -Cum Laude
 
