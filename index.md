@@ -4,7 +4,7 @@ title: Dominique Lockett's CV
 ---
 # Dominique Lockett
 Political Science PhD. student.
-<table cellspacing="0" cellpadding="0">
+table {border: none;}
 
 aa|bb|cc
 --|--|--
