@@ -3,7 +3,15 @@ layout: cv
 title: Dominique Lockett's CV
 ---
 Dominique Lockett
-___________________________________________________
+| Heading 1 | Heading 2 | Heading 3 |
+| :- | -: | :-: |
+| Left column | Middle column | Right column|
+| Left-Aligned Text | Right-Aligned Text | Centered Text|
+| 200 | 200 | 200 |
+| 20.000 | 20.000 | 20.000|
+| 2.000.000 | 2.000.000 | 2.000.000 |___
+
+________________________________________________
 1 MyAddress                        email@example.com\
 MyTown 1000                          @twitter_handle\
 MyCountry                           1800 my-phone-nr\
