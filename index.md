@@ -4,12 +4,11 @@ title: Dominique Lockett's CV
 ---
 # Dominique Lockett
 Political Science PhD. student.
-table {border: none;}
-
-aa|bb|cc
---|--|--
-ee|ff|gg 
-
+-------------------     ----------------------------
+1 MyAddress                        email@example.com
+MyTown 1000                          @twitter_handle
+MyCountry                           1800 my-phone-nr
+-------------------     ----------------------------
 Washington University in St. Louis | Campus Box 1063 |
 butt One Brookings Drive| St. Louis, MO, 63130
 | dlockett@wustl.edu | 618-954-6277
