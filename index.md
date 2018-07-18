@@ -14,9 +14,9 @@ Dominique Lockett
 | 2.000.000 | 2.000.000 | 2.000.000 |___
 
 ________________________________________________
-1 MyAddress                        email@example.com\
-MyTown 1000                          @twitter_handle\
-MyCountry                           1800 my-phone-nr\
+1 MyAddress  &nbsp&nbsp&nbsp&nbsp&nbsp                      email@example.com\
+MyTown 1000    &nbsp&nbsp&nbsp&nbsp&nbsp                      @twitter_handle\
+MyCountry     &nbsp&nbsp&nbsp&nbsp&nbsp                      1800 my-phone-nr\
 -------------------     ----------------------------
 
 
