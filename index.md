@@ -32,10 +32,10 @@ __A.A., Liberal Arts, Ivy Tech Community College__
 
 ## Experience
 `2013-2014`
-__Math/English Tutor__
+Math/English Tutor
 
 `2011-2012`
-__English Tutor__
+English Tutor
 
 
 ## Awards
