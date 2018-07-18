@@ -22,12 +22,12 @@ __PhD., Political Science, Washington University in St. Louis__
 `2016-2017`
 __M.A., Political Science, St. Louis University__
 
--Magna Cum Laude, Pi Sigma Alpha
+- Magna Cum Laude, Pi Sigma Alpha
 
 `2013-2016`
 __B.A., Political Science, St. Louis University__
 
--Cum Laude
+- Cum Laude
 
 `2009-2012`
 __A.A., Liberal Arts, Ivy Tech Community College__
