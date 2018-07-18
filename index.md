@@ -12,8 +12,7 @@ MyCountry    &ensp;(50x &nbsp;)  1800 my-phone-nr
 -------------------     ----------------------------
 
 
-Washington University in St. Louis | Campus Box 1063 |
-butt One Brookings Drive| St. Louis, MO, 63130
+Washington University in St. Louis | Campus Box 1063 | One Brookings Drive| St. Louis, MO, 63130
 | dlockett@wustl.edu | 618-954-6277
 
 ## Currently
@@ -41,9 +40,12 @@ __B.A., Political Science, St. Louis University__
 `2009-2012`
 __A.A., Liberal Arts, Ivy Tech Community College__
 
+## Experience
+`2013-2014`
+__Math/English Tutor__
 
-- Fellow
-
+`2011-2012`
+__English Tutor__
 
 
 ## Awards
