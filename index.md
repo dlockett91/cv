@@ -6,9 +6,9 @@ Dominique Lockett
 
 
 ________________________________________________
-1 MyAddress &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                  email@example.com\
+1 MyAddress &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   email@example.com\
 MyTown 1000  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                       @twitter_handle\
-MyCountry    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                       1800 my-phone-nr\
+MyCountry    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                       1800 my-phone-nr
 -------------------     ----------------------------
 
 
