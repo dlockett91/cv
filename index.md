@@ -5,18 +5,10 @@ title: Dominique Lockett's CV
 Dominique Lockett
 
 
-| Heading 1 | Heading 2 | Heading 3 |
-| :- | -: | :-: |
-| Left column | Middle column | Right column|
-| Left-Aligned Text | Right-Aligned Text | Centered Text|
-| 200 | 200 | 200 |
-| 20.000 | 20.000 | 20.000|
-| 2.000.000 | 2.000.000 | 2.000.000 |___
-
 ________________________________________________
-1 MyAddress  &nbsp&nbsp&nbsp&nbsp&nbsp                      email@example.com\
-MyTown 1000    &nbsp&nbsp&nbsp&nbsp&nbsp                      @twitter_handle\
-MyCountry     &nbsp&nbsp&nbsp&nbsp&nbsp                      1800 my-phone-nr\
+1 MyAddress &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                  email@example.com\
+MyTown 1000  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                       @twitter_handle\
+MyCountry    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                       1800 my-phone-nr\
 -------------------     ----------------------------
 
 
