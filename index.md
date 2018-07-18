@@ -3,7 +3,6 @@ layout: cv
 title: Dominique Lockett's CV
 ---
 # Dominique Lockett
-__________________
 dlockett@wustl.edu | 618-954-6277
 
 ## Currently
