@@ -33,11 +33,14 @@ __B.A., Political Science, St. Louis University__
 __A.A., Liberal Arts, Ivy Tech Community College__
 
 ## Experience
+`2018`
+Mentored Teaching Experience, Washington University in St. Louis
+
 `2013-2014`
-Math/English Tutor
+Math/English Tutor, St. Louis University
 
 `2011-2012`
-English Tutor
+English Tutor, Ivy Tech Community College
 
 
 ## Awards
