@@ -1,4 +1,4 @@
----
+﻿---
 layout: cv
 title: Dominique Lockett's CV
 ---
@@ -6,7 +6,7 @@ title: Dominique Lockett's CV
 Political Science PhD. student.
 
 Washington University in St. Louis | Campus Box 1063 |
-| One Brookings Drive| St. Louis, MO, 63130
+butt One Brookings Drive| St. Louis, MO, 63130
 | dlockett@wustl.edu | 618-954-6277
 
 ## Currently
