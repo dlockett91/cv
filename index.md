@@ -1,4 +1,4 @@
-﻿---
+---
 layout: cv
 title: Dominique Lockett's CV
 ---
