@@ -15,7 +15,7 @@ Computational Social Science
   
 American politics
 
-&nbsp;civics 
+&nbsp;civics 1
 
    political violence 
 
