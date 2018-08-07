@@ -42,6 +42,12 @@ Math/English Tutor, St. Louis University
 `2011-2012`
 English Tutor, Ivy Tech Community College
 
+## Skills
+Python
+R
+Stata
+Github
+HTML
 
 ## Awards
 
@@ -51,6 +57,16 @@ Graduate Student Diversity Fellowship
 
 ## Working Papers
 Zoe Ang and Dominique Lockett. “Who Protests After Ferguson” 2017
+
+## References
+'morgan.hazelton@slu.edu'
+Morgan Hazelton
+
+'jacob.montgomery@wustl.edu'
+Jacob Montgomery
+
+'bsinclai@wustl.edu'
+Betsy Sinclair
 
 <!-- ### Footer
 
