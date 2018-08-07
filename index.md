@@ -15,15 +15,15 @@ Computational Social Science
   
 American politics
 
-   civics
+   civics 
 
-   political violence
+   political violence 
 
-   congressional behavior
+   congressional behavior 
 
-   executive behavior
+   executive behavior 
 
-   racial relations
+   racial relations 
   
 Behavioral politics
 
