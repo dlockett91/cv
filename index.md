@@ -11,9 +11,9 @@ Second year PhD. student at Washington University in St. Louis.
 
 ### Research interests
 
-Computational Social Science
+__Computational Social Science__
   
-American politics
+__American politics__
 
 &nbsp;&nbsp;&nbsp;civics 
 
@@ -25,7 +25,7 @@ American politics
 
 &nbsp;&nbsp;&nbsp;racial relations 
   
-Behavioral politics
+__Behavioral politics__
 
 &nbsp;&nbsp;&nbsp;anonymity
 
@@ -33,7 +33,8 @@ Behavioral politics
    
 &nbsp;&nbsp;&nbsp;civic engagement
   
-Identity politics
+__Identity politics__
+
 &nbsp;&nbsp;&nbsp;social identity theory
 
 
