@@ -11,7 +11,13 @@ Second year PhD. student at Washington University in St. Louis.
 
 ### Research interests
 
-American Politics, behavioral politics, methods, identity politics.
+American politics
+
+Behavioral politics
+
+Methods
+
+Identity politics
 
 
 ## Education
@@ -43,12 +49,15 @@ Math/English Tutor, St. Louis University
 English Tutor, Ivy Tech Community College
 
 ## Skills
-+
-+ Python
-+ R
-+ Stata
-+ Github
-+ HTML
+Python
+
+R
+
+Stata
+
+Github
+
+HTML
 
 ## Awards
 
