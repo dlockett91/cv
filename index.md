@@ -15,26 +15,26 @@ Computational Social Science
   
 American politics
 
-&nbsp;civics 1
+&nbsp;&nbsp;&nbsp;civics 
 
-   political violence 
+&nbsp;&nbsp;&nbsp;political violence 
 
-   congressional behavior 
+&nbsp;&nbsp;&nbsp;congressional behavior 
 
-   executive behavior 
+&nbsp;&nbsp;&nbsp;executive behavior 
 
-   racial relations 
+&nbsp;&nbsp;&nbsp;racial relations 
   
 Behavioral politics
 
-   anonymity
+&nbsp;&nbsp;&nbsp;anonymity
 
-   voting
+&nbsp;&nbsp;&nbsp;voting
    
-   civic engagement
+&nbsp;&nbsp;&nbsp;civic engagement
   
 Identity politics
-   social identity theory
+&nbsp;&nbsp;&nbsp;social identity theory
 
 
 ## Education
