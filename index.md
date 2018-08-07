@@ -26,8 +26,10 @@ American politics
 ⋅⋅⋅ racial relations
   
 Behavioral politics
-- anonymity
-- voting
+
+... anonymity
+
+... voting
 - civic engagement
   
 Identity politics
