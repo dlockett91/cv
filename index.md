@@ -11,13 +11,22 @@ Second year PhD. student at Washington University in St. Louis.
 
 ### Research interests
 
+Computational Social Science
+  
 American politics
-
+  - civics
+  - political violence
+  - congressional behavior
+  - executive behavior
+  - racial relation
+  
 Behavioral politics
-
-Methods
-
+  - anonymity
+  - voting
+  - civic engagement
+  
 Identity politics
+  - social identity theory
 
 
 ## Education
@@ -50,6 +59,8 @@ English Tutor, Ivy Tech Community College
 
 ## Skills
 Python
+
+GIS
 
 R
 
