@@ -58,7 +58,7 @@ __A.A., Liberal Arts, Ivy Tech Community College__
 
 ## Experience
 `2018`
-Mentored Teaching Experience, Washington University in St. Louis
+Mentored Teaching Experience: Theories in Social Justice, Washington University in St. Louis
 
 `2013-2014`
 Math/English Tutor, St. Louis University
