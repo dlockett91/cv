@@ -1,3 +1,7 @@
+---	
+layout: cv	
+title: Dominique Lockett's CV	
+---
 # Dominique Lockett
 dlockett@wustl.edu | 618-954-6277
 
