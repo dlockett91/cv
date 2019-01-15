@@ -41,6 +41,7 @@ __A.A., Liberal Arts, Ivy Tech Community College__
 ## Experience
 `2019`
 Political Science Tutor, Viax Research Education
+
 `2018`
 Mentored Teaching Experience: Theories in Social Justice, Washington University in St. Louis
 
