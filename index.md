@@ -67,19 +67,6 @@ HTML
 Graduate Student Diversity Fellowship
 
 
-## Working Papers
-Zoe Ang and Dominique Lockett. “Who Protests After Ferguson” 2017
-
-## References
-`morgan.hazelton@slu.edu`
-Morgan Hazelton
-
-
-`jacob.montgomery@wustl.edu`
-Jacob Montgomery
-
-`bsinclai@wustl.edu`
-Betsy Sinclair
 
 <!-- ### Footer
 
