@@ -14,28 +14,10 @@ Second year PhD. student at Washington University in St. Louis.
 __Computational Social Science__
   
 __American politics__
-
-&nbsp;&nbsp;&nbsp;civics 
-
-&nbsp;&nbsp;&nbsp;political violence 
-
-&nbsp;&nbsp;&nbsp;congressional behavior 
-
-&nbsp;&nbsp;&nbsp;executive behavior 
-
-&nbsp;&nbsp;&nbsp;racial relations 
-  
+ 
 __Behavioral politics__
-
-&nbsp;&nbsp;&nbsp;anonymity
-
-&nbsp;&nbsp;&nbsp;voting
-   
-&nbsp;&nbsp;&nbsp;civic engagement
   
 __Identity politics__
-
-&nbsp;&nbsp;&nbsp;social identity theory
 
 
 ## Education
