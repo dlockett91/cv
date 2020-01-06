@@ -6,9 +6,12 @@ title:
 
 **`dlockett@wustl.edu`**
 Department of Political Science
+
 **`618-954-6277`**
 Washington University in St. Louis
+
 One Brookings Drive, Box 1063
+
 St. Louis, MO 63130
 
 ## Education
