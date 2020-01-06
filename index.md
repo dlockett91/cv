@@ -4,12 +4,12 @@ title:
 ---
 # Dominique Lockett
 
-|   |   |   |                                    |   |   |   |   |   |   |                    |
+| a |   |   |                                    |   |   |   |   |   |   |                    |
 |---|---|---|------------------------------------|---|---|---|---|---|---|--------------------|
-|   |   |   | Department of Political Science    |   |   |   |   |   |   | dlockett@wustl.edu |
-|   |   |   | Washington University in St. Louis |   |   |   |   |   |   |       618-954-6277 |
-|   |   |   | One Brookings Drive, Box 1063      |   |   |   |   |   |   | test4              |
-|   |   |   | St. Louis, MO 63130                |   |   |   |   |   |   |                    |
+| b |   |   | Department of Political Science    |   |   |   |   |   |   | dlockett@wustl.edu |
+| c |   |   | Washington University in St. Louis |   |   |   |   |   |   |       618-954-6277 |
+|  d|   |   | One Brookings Drive, Box 1063      |   |   |   |   |   |   | test4              |
+|e  |   |   | St. Louis, MO 63130                |   |   |   |   |   |   |                    |
 
 ## Education
 
