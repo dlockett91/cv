@@ -5,18 +5,13 @@ title:
 # Dominique Lockett
 
 
-\begin{table}[]
-\centering
-\resizebox{\textwidth}{!}{%
-\begin{tabular}{llll}
-Department of Political Science &  &  & dlockett@wustl.edu \\
-Washington University in St. Louis &  &  & 618-954-6277 \\
-One Brookings Drive, Box 1063 &  &  &  \\
-St. Louis, MO 63130 &  &  & 
-\end{tabular}%
-}
-\end{table}
----
+| Department of Political Science    |   |   | dlockett@wustl.edu |
+|------------------------------------|---|---|--------------------|
+| Washington University in St. Louis |   |   | 618-954-6277       |
+| One Brookings Drive, Box 1063      |   |   |                    |
+| St. Louis, MO 63130                |   |   |                    |
+
+
 
 ## Education
 
@@ -37,12 +32,6 @@ __B.A., Political Science, St. Louis University__
 __A.A., Liberal Arts, Ivy Tech Community College__
 
 - Cum Laude, Phi Theta Kappa
-
-
-
----
-
-
 
 ## Experience
 `2019`
@@ -72,13 +61,13 @@ Github
 
 HTML
 
----
+
 
 ## Forthcoming Publications
 
 Guess, Andrew, Dominique Lockett, Benjamin Lyons, Brendan Nyhan, Jacob M. Montgomery, and Jason Reifler. 2020. “'Fake news' may have limited effects beyond increasing beliefs in false claims.” *The Misinformation Review.*
 
----
+
 
 ## Awards
 
