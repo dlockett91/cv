@@ -5,6 +5,8 @@ title:
 # Dominique Lockett
 dlockett@wustl.edu | 618-954-6277
 
+---
+
 ## Education
 
 `2017-Present`
@@ -25,6 +27,8 @@ __A.A., Liberal Arts, Ivy Tech Community College__
 
 - Cum Laude, Phi Theta Kappa
 
+---
+
 ## Experience
 `2019`
 Political Science Tutor, Viax Research Education
@@ -38,10 +42,14 @@ Math/English Tutor, St. Louis University
 `2011-2012`
 English Tutor, Ivy Tech Community College
 
+---
+
 ## Skills
 Python
 
 R
+
+Markdown
 
 Stata
 
@@ -49,18 +57,19 @@ Github
 
 HTML
 
+---
+
 ## Forthcoming Publications
 
 Guess, Andrew, Dominique Lockett, Benjamin Lyons, Brendan Nyhan, Jacob M. Montgomery, and Jason Reifler. 2020. “'Fake news' may have limited effects beyond increasing beliefs in false claims.” *The Misinformation Review.*
+
+---
+
 ## Awards
 
 `2016`
 Graduate Student Diversity Fellowship
 
 
-
-<!-- ### Footer
-
-Last updated: July 2018 -->
 
 
