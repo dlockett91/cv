@@ -33,6 +33,8 @@ __B.A., Political Science, St. Louis University__
 `2009-2012`
 __A.A., English and Communication, Ivy Tech Community College__
 
+- Cum Laude
+
 ## Experience
 `2019`
 Political Science Tutor, Viax Research Education
