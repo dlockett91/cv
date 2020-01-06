@@ -30,6 +30,9 @@ __B.A., Political Science, St. Louis University__
 
 - Cum Laude
 
+`2009-2012`
+__A.A., English and Communication, Ivy Tech Community College__
+
 ## Experience
 `2019`
 Political Science Tutor, Viax Research Education
@@ -39,6 +42,9 @@ Mentored Teaching Experience: Theories in Social Justice, Washington University 
 
 `2013-2014`
 Math/English Tutor, St. Louis University
+
+`2011-2012`
+English Tutor, Ivy Tech Community College
 
 ## Skills
 Python | R | Stata | Markdown | Github
