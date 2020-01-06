@@ -5,21 +5,6 @@ title:
 # Dominique Lockett
 dlockett@wustl.edu | 618-954-6277
 
-## Currently
-
-Second year PhD. student at Washington University in St. Louis.
-
-### Research interests
-
-__Computational Social Science__
-  
-__American politics__
- 
-__Behavioral politics__
-  
-__Identity politics__
-
-
 ## Education
 
 `2017-Present`
@@ -37,7 +22,9 @@ __B.A., Political Science, St. Louis University__
 
 `2009-2012`
 __A.A., Liberal Arts, Ivy Tech Community College__
+
 - Cum Laude, Phi Theta Kappa
+
 ## Experience
 `2019`
 Political Science Tutor, Viax Research Education
