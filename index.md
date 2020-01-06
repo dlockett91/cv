@@ -1,6 +1,6 @@
 ---	
 layout: cv	
-title: Dominique Lockett's CV	
+title:
 ---
 # Dominique Lockett
 dlockett@wustl.edu | 618-954-6277
@@ -37,7 +37,7 @@ __B.A., Political Science, St. Louis University__
 
 `2009-2012`
 __A.A., Liberal Arts, Ivy Tech Community College__
-
+- Cum Laude, Phi Theta Kappa
 ## Experience
 `2019`
 Political Science Tutor, Viax Research Education
@@ -53,8 +53,6 @@ English Tutor, Ivy Tech Community College
 
 ## Skills
 Python
-
-GIS
 
 R
 
