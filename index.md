@@ -15,7 +15,7 @@ One Brookings Drive, Box 1063
 
 St. Louis, MO 63130
 
-### Education
+## Education
 
 `2017-Present`
 __PhD., Political Science, Washington University in St. Louis__
