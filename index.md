@@ -30,7 +30,7 @@ __B.A., Political Science, St. Louis University__
 
 - Cum Laude
 
-### Experience
+## Experience
 `2019`
 Political Science Tutor, Viax Research Education
 
@@ -43,10 +43,10 @@ Math/English Tutor, St. Louis University
 ## Skills
 Python | R | Stata | Markdown | Github
   
-### Forthcoming Publications
+## Forthcoming Publications
 Guess, Andrew, Dominique Lockett, Benjamin Lyons, Brendan Nyhan, Jacob M. Montgomery, and Jason Reifler. 2020. “'Fake news' may have limited effects beyond increasing beliefs in false claims.” *The Misinformation Review.*
 
-## Awards
+### Awards
 `2016`
 Graduate Student Diversity Fellowship
 
