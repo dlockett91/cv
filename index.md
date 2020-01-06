@@ -47,6 +47,7 @@ English Tutor, Ivy Tech Community College
 
 
 ## Skills
+
 |          |       |
 |----------|-------|
 | Python   | R     |
