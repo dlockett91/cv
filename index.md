@@ -27,7 +27,11 @@ __A.A., Liberal Arts, Ivy Tech Community College__
 
 - Cum Laude, Phi Theta Kappa
 
+
+
 ---
+
+
 
 ## Experience
 `2019`
