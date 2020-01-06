@@ -4,7 +4,6 @@ title:
 ---
 # Dominique Lockett
 
-<center>
   
 |   |   |   |                                    |   |   |   |   |   |   |                    |
 |---|---|---|------------------------------------|---|---|---|---|---|---|--------------------|
@@ -12,7 +11,6 @@ title:
 |   |   |   | Washington University in St. Louis |   |   |   |   |   |   |       618-954-6277 |
 |   |   |   | One Brookings Drive, Box 1063      |   |   |   |   |   |   | test5              |
 |   |   |   | St. Louis, MO 63130                |   |   |   |   |   |   |                    |
-</center>
 
 ## Education
 
