@@ -47,17 +47,11 @@ English Tutor, Ivy Tech Community College
 
 
 ## Skills
-Python
-
-R
-
-Markdown
-
-Stata
-
-Github
-
-HTML
+|          |       |
+|----------|-------|
+| Python   | R     |
+| Markdown | Stata |
+| Github   |       |
 
 
 ## Forthcoming Publications
