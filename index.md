@@ -5,11 +5,17 @@ title:
 # Dominique Lockett
 
 
-Department of Political Science|--|--|dlockett@wustl.edu
-Washington University in St. Louis|--|--|618-954-6277
-One Brookings Drive, Box 1063|--|--|--
-St. Louis, MO 63130|--|--|--
-
+\begin{table}[]
+\centering
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{llll}
+Department of Political Science &  &  & dlockett@wustl.edu \\
+Washington University in St. Louis &  &  & 618-954-6277 \\
+One Brookings Drive, Box 1063 &  &  &  \\
+St. Louis, MO 63130 &  &  & 
+\end{tabular}%
+}
+\end{table}
 ---
 
 ## Education
