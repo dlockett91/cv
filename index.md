@@ -4,7 +4,6 @@ title:
 ---
 # Dominique Lockett
 
-
 **`dlockett@wustl.edu`**
 
 Department of Political Science
@@ -16,7 +15,6 @@ One Brookings Drive, Box 1063
 
 St. Louis, MO 63130
 
----
 
 ## Education
 
