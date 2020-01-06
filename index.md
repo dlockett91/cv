@@ -24,8 +24,42 @@ title:
     <th class="tg-zv4m"></th>
     <th class="tg-zv4m"></th>
     <th class="tg-zv4m"></th>
+    <th class="tg-zv4m"></th>
+    <th class="tg-zv4m"></th>
   </tr>
   <tr>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
+  </tr>
+  <tr>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
+  </tr>
+  <tr>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
@@ -42,6 +76,8 @@ title:
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
     <td class="tg-zv4m">Washington University in St. Louis</td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
@@ -52,6 +88,8 @@ title:
     <td class="tg-ofj5">618-954-6277</td>
   </tr>
   <tr>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
@@ -68,6 +106,8 @@ title:
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
     <td class="tg-zv4m">St. Louis, MO 63130</td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
@@ -77,7 +117,9 @@ title:
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
   </tr>
-</table>## Education
+</table>
+
+## Education
 
 `2017-Present`
 __PhD., Political Science, Washington University in St. Louis__
