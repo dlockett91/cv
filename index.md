@@ -5,14 +5,10 @@ title:
 # Dominique Lockett
 
 **`dlockett@wustl.edu`**
-
 Department of Political Science
-
 **`618-954-6277`**
 Washington University in St. Louis
-
 One Brookings Drive, Box 1063
-
 St. Louis, MO 63130
 
 ## Education
@@ -44,11 +40,9 @@ Math/English Tutor, St. Louis University
 Python | R | Stata | Markdown | Github
   
 ## Forthcoming Publications
-
 Guess, Andrew, Dominique Lockett, Benjamin Lyons, Brendan Nyhan, Jacob M. Montgomery, and Jason Reifler. 2020. “'Fake news' may have limited effects beyond increasing beliefs in false claims.” *The Misinformation Review.*
 
 ## Awards
-
 `2016`
 Graduate Student Diversity Fellowship
 
