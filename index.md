@@ -3,10 +3,11 @@ layout: cv
 title:
 ---
 # Dominique Lockett
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:5px 20px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:5px 20px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:0px 20px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:0px 20px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
 .tg .tg-ofj5{border-color:#ffffff;text-align:right;vertical-align:top}
 </style>
@@ -15,14 +16,27 @@ title:
     <th class="tg-zv4m"></th>
     <th class="tg-zv4m"></th>
     <th class="tg-zv4m"></th>
-    <th class="tg-zv4m">Department of Political Science</th>
     <th class="tg-zv4m"></th>
     <th class="tg-zv4m"></th>
     <th class="tg-zv4m"></th>
     <th class="tg-zv4m"></th>
     <th class="tg-zv4m"></th>
-    <th class="tg-zv4m">Test7</th>
-    <th class="tg-ofj5">dlockett@wustl.edu</th>
+    <th class="tg-zv4m"></th>
+    <th class="tg-zv4m"></th>
+    <th class="tg-zv4m"></th>
+  </tr>
+  <tr>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m">Department of Political Science</td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-ofj5">dlockett@wustl.edu</td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -48,7 +62,7 @@ title:
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
-    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m">test8</td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -63,9 +77,7 @@ title:
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
   </tr>
-</table>
-
-## Education
+</table>## Education
 
 `2017-Present`
 __PhD., Political Science, Washington University in St. Louis__
