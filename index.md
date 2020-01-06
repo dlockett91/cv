@@ -12,7 +12,6 @@ title:
 | St. Louis, MO 63130                |   |   |                    |
 
 
-
 ## Education
 
 `2017-Present`
@@ -46,7 +45,7 @@ Math/English Tutor, St. Louis University
 `2011-2012`
 English Tutor, Ivy Tech Community College
 
----
+
 
 ## Skills
 Python
@@ -60,7 +59,6 @@ Stata
 Github
 
 HTML
-
 
 
 ## Forthcoming Publications
