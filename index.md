@@ -41,9 +41,7 @@ Mentored Teaching Experience: Theories in Social Justice, Washington University 
 Math/English Tutor, St. Louis University
 
 ## Skills
-Python      R 
-Stata       Markdown 
-Github
+Python | R | Stata | Markdown | Github
   
 ## Forthcoming Publications
 
