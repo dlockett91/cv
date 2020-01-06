@@ -26,9 +26,7 @@ __B.A., Political Science, St. Louis University__
 __A.A., Liberal Arts, Ivy Tech Community College__
 
 - Cum Laude, Phi Theta Kappa
-
 ---
-
 ## Experience
 `2019`
 Political Science Tutor, Viax Research Education
