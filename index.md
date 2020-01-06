@@ -46,7 +46,7 @@ Python | R | Stata | Markdown | Github
 ## Forthcoming Publications
 Guess, Andrew, Dominique Lockett, Benjamin Lyons, Brendan Nyhan, Jacob M. Montgomery, and Jason Reifler. 2020. “'Fake news' may have limited effects beyond increasing beliefs in false claims.” *The Misinformation Review.*
 
-### Awards
+## Awards
 `2016`
 Graduate Student Diversity Fellowship
 
