@@ -4,12 +4,11 @@ title:
 ---
 # Dominique Lockett
 
-##
 
-`domlockett@wustl.edu`
+**`domlockett@wustl.edu`**
 Department of Political Science
 
-`618-954-6277`
+**`618-954-6277`**
 Washington University in St. Louis
 
 One Brookings Drive, Box 1063
