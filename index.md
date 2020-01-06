@@ -15,7 +15,6 @@ One Brookings Drive, Box 1063
 
 St. Louis, MO 63130
 
-
 ## Education
 
 `2017-Present`
@@ -41,47 +40,14 @@ Mentored Teaching Experience: Theories in Social Justice, Washington University 
 `2013-2014`
 Math/English Tutor, St. Louis University
 
-`2011-2012`
-English Tutor, Ivy Tech Community College
-
-
-
 ## Skills
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-  <tr>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Python</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">R</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Markdown</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Stata</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Github</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-</table>
-
+Python      R
+Stata       Markdown
+Github
+  
 ## Forthcoming Publications
 
 Guess, Andrew, Dominique Lockett, Benjamin Lyons, Brendan Nyhan, Jacob M. Montgomery, and Jason Reifler. 2020. “'Fake news' may have limited effects beyond increasing beliefs in false claims.” *The Misinformation Review.*
-
-
 
 ## Awards
 
